@@ -19,3 +19,5 @@ Babel:
 * [Nullish Coalescing Operator](https://github.com/tc39/proposal-nullish-coalescing)
 * [Optional Chaining](https://github.com/tc39/proposal-optional-chaining)
 
+CircleCI:
+* CircleCI runs linting and can easily be extended to run tests

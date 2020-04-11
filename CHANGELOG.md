@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/kgoedecke/node-app-boilerplate/compare/v1.1.0...v1.2.0) (2020-04-11)
+
+
+### Features
+
+* Add npm publishing and release versioning ([6a9e45b](https://github.com/kgoedecke/node-app-boilerplate/commit/6a9e45b05f6dcd7ab55cb04b0c97e50645c48cef))
+
 ## 1.1.0 (2020-04-11)
 
 

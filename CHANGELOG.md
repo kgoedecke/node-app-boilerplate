@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/kgoedecke/node-app-boilerplate/compare/v1.2.1...v1.3.0) (2020-04-12)
+
+
+### Features
+
+* Add build on prerelease script ([d004e6a](https://github.com/kgoedecke/node-app-boilerplate/commit/d004e6a6548e58f670954c77054897a5d9453f4e))
+
 ### [1.2.1](https://github.com/kgoedecke/node-app-boilerplate/compare/v1.2.0...v1.2.1) (2020-04-12)
 
 

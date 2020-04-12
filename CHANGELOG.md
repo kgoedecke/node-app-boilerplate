@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/kgoedecke/node-app-boilerplate/compare/v1.2.0...v1.2.1) (2020-04-12)
+
+
+### Bug Fixes
+
+* Move dependencies to devDependencies ([28522c4](https://github.com/kgoedecke/node-app-boilerplate/commit/28522c4bac0490f85cbcc014f2b38f0315d5de34))
+
 ## [1.2.0](https://github.com/kgoedecke/node-app-boilerplate/compare/v1.1.0...v1.2.0) (2020-04-11)
 
 
